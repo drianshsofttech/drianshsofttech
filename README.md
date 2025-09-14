@@ -2,7 +2,7 @@
 
 
 ## 🌟 About Us
-**Drianshsofttech** is a technology solutions company based in India. We provide modern and innovative software development services, helping businesses to grow and succeed in the digital world. Our main focus is delivering high-quality web and software applications with great customer support.
+**Driansh Softtech** is a technology solutions company based in India. We provide modern and innovative software development services, helping businesses to grow and succeed in the digital world. Our main focus is delivering high-quality web and software applications with great customer support.
 
 ---
 
@@ -12,6 +12,14 @@ To empower businesses with reliable, scalable, and innovative software solutions
 ---
 
 ## 💼 Our Services
+
+- **VoIP Solutions**  
+  We specialize in building and integrating VoIP solutions using advanced technologies:  
+    - **FreeSWITCH** – Scalable soft-switch solution for voice and video applications.  
+    - **FusionPBX** – Feature-rich open-source PBX platform.  
+    - **Kamailio** – High-performance SIP server for large-scale VoIP deployments.  
+    - **Call Center Solutions** – Custom call center software for customer support, automated call handling, and advanced call routing.
+
 - **Web Development**  
   Custom website design and development using the latest technologies.
 
@@ -26,13 +34,6 @@ To empower businesses with reliable, scalable, and innovative software solutions
 
 - **Cloud Solutions**  
   Deploy scalable applications on cloud platforms like AWS and Google Cloud.
-
-- **VoIP Solutions**  
-  We specialize in building and integrating VoIP solutions using advanced technologies:  
-    - **FreeSWITCH** – Scalable soft-switch solution for voice and video applications.  
-    - **FusionPBX** – Feature-rich open-source PBX platform.  
-    - **Kamailio** – High-performance SIP server for large-scale VoIP deployments.  
-    - **Call Center Solutions** – Custom call center software for customer support, automated call handling, and advanced call routing.
 
 - **IT Consulting**  
   Expert advice and guidance for your IT projects and business strategy.
