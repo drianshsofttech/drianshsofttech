@@ -50,7 +50,7 @@ To empower businesses with reliable, scalable, and innovative software solutions
 ---
 
 ## 📞 Contact Us
-📧 Email: support@drianshsofttech 
+📧 Email: support@driansh.com
 ---
 
 © 2025 Drianshsofttech | All rights reserved
